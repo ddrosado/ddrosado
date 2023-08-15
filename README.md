@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <!--
-**ddrosado/ddrosado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,10 +12,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Denise</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+I had the opportunity to learn front-end technologies, such as React, Redux, CSS, HTML, and JavaScript, as well as back-end development using Express, Node.js, or Next.js, and databases like PostgreSQL. In my projects, I prioritize the quality of the results, effective communication, and teamwork. I feel comfortable in collaborative environments and enjoy creating a positive atmosphere in the projects I participate in, where I can learn from my colleagues and contribute to the success of the team together.
+
+I'm currently studying Systems Engineering at UTN, which allows me to continuously expand my knowledge in analytical thinking and complex systems, and refine my problem-solving skills.
+
+I'm always open to learning and growing. I'm excited about the possibility of being part of a team and contributing to new projects. Please feel free to reach out to me!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
