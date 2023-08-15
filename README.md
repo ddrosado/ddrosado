@@ -23,7 +23,7 @@ I'm always open to learning and growing. I'm excited about the possibility of be
 </p>
 
 <p align="left">
-:heartpulse: Things I love: hamburguer menues!
+:heartpulse: I love: hamburguer menues!
 </p>
 <p align="left">
 🔭 I’m currently working on: my portfolio
